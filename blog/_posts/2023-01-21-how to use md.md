@@ -8,3 +8,5 @@ cover-img: /assets/img/path.jpg
 tags: [Cloud-Barista, CB-Tumblebug, Multi-cloud, seokho son, open source]
 comments: true
 ---
+
+안녕하세요 블로그를 운영하는 하병규입니다!
